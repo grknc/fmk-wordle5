@@ -3,6 +3,7 @@
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
 Football Manager Player List
+
 Made by Gurkan Canakci
 
 [**Try out the demo!**](https://fmkwordle-grknc.vercel.app/)
