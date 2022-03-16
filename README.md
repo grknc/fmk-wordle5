@@ -5,7 +5,7 @@ This is a clone project of the popular word guessing game we all know and love. 
 Football Manager Player List
 Made by Gurkan Canakci
 
-[**Try out the demo!**](fmkwordle-grknc.vercel.app/)
+[**Try out the demo!**](https://fmkwordle-grknc.vercel.app/)
 
 ## Build and run
 
