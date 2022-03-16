@@ -1,8 +1,10 @@
-# React Wordle
+# React FMK Wordle
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+Football Manager Player List
+Made by Gurkan Canakci
 
-[**Try out the demo!**](https://reactle.vercel.app/)
+[**Try out the demo!**](fmkwordle-grknc.vercel.app/)
 
 ## Build and run
 
