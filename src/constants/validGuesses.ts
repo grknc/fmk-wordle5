@@ -52,7 +52,7 @@ export const VALID_GUESSES = [
 'Foyth',
 'Franz',
 'Frost',
-'Gibbs'
+'Gibbs',
 'Godin',
 'Gomes',
 'Gomez',
