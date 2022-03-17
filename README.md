@@ -2,6 +2,7 @@
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
+![This is an image](https://pbs.twimg.com/profile_banners/1467755506320252933/1643533301/1500x500)
 
 Football Manager Series
 
