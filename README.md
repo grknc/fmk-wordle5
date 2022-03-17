@@ -12,7 +12,7 @@ Rules :
 
 Foreign Players with 5 letters
 
-7 Choices for correct answer
+6 Choices for correct answer
 
 
 
