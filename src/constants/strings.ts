@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'FMK⚽Wordle5'
+export const GAME_TITLE = 'FMK⚽WrdPlay5'
 
 export const WIN_MESSAGES = ['Harika!', 'Başardın', 'Tebrikler!']
 export const GAME_COPIED_MESSAGE = 'Panoya kopyaladınız'
