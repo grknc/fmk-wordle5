@@ -27,9 +27,11 @@
     "eject": "react-scripts eject",
     "fix": "prettier --write src",
     "lint": "prettier --check src",
+    "pretty": "prettier --write \"src/**/*.js\""
     "start": "react-scripts start",
     "test": "react-scripts test",
     "prepare": "husky install"
+    
   },
   "eslintConfig": {
     "extends": [
@@ -60,5 +62,5 @@
   },
   "lint-staged": {
     "src/*.{ts,tsx,js,jsx,css,md}": "prettier --write"
-  }
+      }
 }
