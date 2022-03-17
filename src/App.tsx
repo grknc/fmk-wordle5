@@ -1,4 +1,3 @@
-import sha256 from 'crypto-js/sha256'
 import { useState, useEffect } from 'react'
 import { Grid } from './components/grid/Grid'
 import { Keyboard } from './components/keyboard/Keyboard'
@@ -68,7 +67,7 @@ function App() {
   const [isRevealing, setIsRevealing] = useState(false)
   const [guesses, setGuesses] = useState<string[]>(() => {
     const loaded = loadGameStateFromLocalStorage()
-    if (loaded?.solutionHash !== sha256(solution).toString()) {
+    if (loaded?.solution !== solution) {
       return []
     }
     const gameWasWon = loaded.guesses.includes(solution)
@@ -140,8 +139,7 @@ function App() {
   }
 
   useEffect(() => {
-    const solutionHash: string = sha256(solution).toString()
-    saveGameStateToLocalStorage({ guesses, solutionHash })
+    saveGameStateToLocalStorage({ guesses, solution })
   }, [guesses])
 
   useEffect(() => {
@@ -243,6 +241,7 @@ function App() {
   }
 
   return (
+
     <div className="h-screen flex flex-col">
       <Navbar
         setIsInfoModalOpen={setIsInfoModalOpen}
@@ -294,7 +293,8 @@ function App() {
         <AlertContainer />
       </div>
     </div>
-  )
+
+  );
 }
 
 export default App
