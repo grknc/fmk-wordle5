@@ -2,7 +2,19 @@
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
-Football Manager Player Wordle List
+
+Football Manager Series
+
+World Player Wordle List - Made by Gurkan Canakci
+
+Rules : 
+
+Foreign Players with 5 letters
+
+7 Choices for correct answer
+
+
+
 
 Made by Gurkan Canakci
 
