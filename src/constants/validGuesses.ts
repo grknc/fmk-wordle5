@@ -1,4 +1,5 @@
 export const VALID_GUESSES = [
+ 
 'Aaron',
 'Acuna',
 'Adama',
@@ -36,7 +37,6 @@ export const VALID_GUESSES = [
 'Demme',
 'Depay',
 'Desch',
-'Destro',
 'Diego',
 'Digne',
 'Diogo',
