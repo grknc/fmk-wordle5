@@ -241,7 +241,6 @@ function App() {
   }
 
   return (
-
     <div className="h-screen flex flex-col">
       <Navbar
         setIsInfoModalOpen={setIsInfoModalOpen}
@@ -279,6 +278,7 @@ function App() {
           isHardMode={isHardMode}
           isDarkMode={isDarkMode}
           isHighContrastMode={isHighContrastMode}
+          numberOfGuessesMade={guesses.length}
         />
         <SettingsModal
           isOpen={isSettingsModalOpen}
@@ -293,8 +293,7 @@ function App() {
         <AlertContainer />
       </div>
     </div>
-
-  );
+  )
 }
 
 export default App
