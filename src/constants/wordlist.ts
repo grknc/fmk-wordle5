@@ -34,7 +34,6 @@ export const WORDS = [
 'Franz',
 'Frost',
 'Gibbs',
-'Godin',
 'Gomes',
 'Gomez',
 'Götze',
