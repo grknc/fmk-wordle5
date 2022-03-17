@@ -53,7 +53,6 @@ export const VALID_GUESSES = [
 'Franz',
 'Frost',
 'Gibbs',
-'Godin',
 'Gomes',
 'Gomez',
 'Götze',
