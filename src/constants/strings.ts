@@ -1,4 +1,4 @@
-export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
+export const GAME_TITLE = ' FMK Wordle5⚽'
 
 export const WIN_MESSAGES = ['Harika!', 'Başardın', 'Tebrikler!']
 export const GAME_COPIED_MESSAGE = 'Panoya kopyaladınız'
