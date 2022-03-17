@@ -4,8 +4,7 @@ This is a clone project of the popular word guessing game we all know and love. 
 
 ![This is an image](https://pbs.twimg.com/profile_banners/1467755506320252933/1643533301/1500x500)
 
-Football Manager Series
-
+FMK Wordle5 Game
 World Player Wordle List - Made by Gurkan Canakci
 
 Rules : 
@@ -13,7 +12,6 @@ Rules :
 Foreign Players with 5 letters
 
 7 Choices for correct answer
-
 
 
 
