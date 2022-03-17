@@ -27,6 +27,7 @@
   "scripts": {
     "build": "react-scripts build",
     "eject": "react-scripts eject",
+    "pretty": "prettier --write \"src/**/*.js\""
     "fix": "prettier --write src",
     "lint": "prettier --check src",
     "start": "react-scripts start",
